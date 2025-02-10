@@ -31,5 +31,5 @@ This project involves creating a Maze program that can generate and render mazes
 ## Requirements
 
 - **C++17 Standard**  
-- **GUI Libraries** (e.g., Qt, SFML, GTK+)  
+- **GUI Libraries** (Qt)  
 - **Unit Testing** for key modules.
